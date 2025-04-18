@@ -9,6 +9,11 @@ This project demonstrates basic array operations such as insertion, deletion, tr
 - Traverse (display) array elements
 - Search for a specific element
 - Update elements in the array
+- shitf and insert an element
+- insert one array into another
+- sort by ascending
+- sort by descending
+- append elements
 
 ## Technologies Used
 
