@@ -17,5 +17,5 @@ This project demonstrates basic array operations such as insertion, deletion, tr
 
 ## Technologies Used
 
-- Programming Language: [Your Language Here, e.g., Python, C++, Java]
+- Programming Language: C Programming 
 - No external libraries required.
